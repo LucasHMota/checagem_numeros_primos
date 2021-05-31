@@ -1,5 +1,3 @@
-# checagem_numeros_primos
+# Exercícios básicos de Python
 
-3 algoritmos distintos para checar se um número é primo
-
-O primeiro por força bruta, o segundo verificando os ímpares e o terceiro verificando ímpares até chegar à metade do valor informado
+Exercícios simples feitos na linguagem Python
